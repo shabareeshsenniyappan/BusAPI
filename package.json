@@ -9,12 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "awesome-typescript-loader": "^5.2.1",
     "mongodb": "^3.6.2",
-    "mongoose": "^5.10.11",
-    "source-map-loader": "^1.1.2"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.5"
+    "mongoose": "^5.10.11"
   }
 }
